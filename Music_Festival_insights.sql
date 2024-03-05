@@ -1,4 +1,7 @@
-/* The Music Store company is embarking on a strategic initiative to host a series of musical festivals in collaboration with their roster of artists. In order to ensure the utmost success of these festivals, the company recognizes the necessity of leveraging their database to extract actionable insights. Through rigorous analysis of their data, the company aims to inform and support key business decisions pertaining to lineup curation, promotional strategies, and overall event planning. This data-driven approach will enable the company to optimize resource allocation, enhance audience engagement, and ultimately maximize the impact of their musical festivals. */
+/* The Music Store company is embarking on a strategic initiative to host a series of musical festivals in collaboration with their roster of artists. 
+In order to ensure the utmost success of these festivals, the company recognizes the necessity of leveraging their database to extract actionable insights. 
+Through rigorous analysis of their data, the company aims to inform and support key business decisions pertaining to lineup curation, promotional strategies, and overall event planning. 
+This data-driven approach will enable the company to optimize resource allocation, enhance audience engagement, and ultimately maximize the impact of their musical festivals. */
 /* 1. To select the locations for festival we want to know which countries have the most Invoices. */
 
   SELECT COUNT(*) AS total_invoice, billing_country 
