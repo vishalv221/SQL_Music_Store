@@ -2,7 +2,7 @@
 SQL project to analyze online music store data and get answers to some business-related queries.
 The project is meticulously crafted with the singular aim of honing SQL querying skills and extracting profound insights from data to revolutionize strategic planning for promotional events in a fictitious yet dynamic scenario.
 
-Database and Tools
+Database and Tools:
 
 Postgre SQL
 
